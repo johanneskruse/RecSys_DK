@@ -14,3 +14,7 @@
 
 # Call for Contributions
 We appreciate and welcome contributions. Small improvements or fixes are always appreciated. 
+
+
+# Contacts
+If you have any question or want to know more about the comunity feel free to reach out to Johannes at jkru@dtu.dk
