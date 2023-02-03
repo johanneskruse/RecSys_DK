@@ -1,14 +1,15 @@
 # Welcome to the RecSys Denmark page!
 
-
+Sign up for next event: 
+- 
 
 # Upcoming events:
-- March (TBA): RecSys-DK at Wunderman
+- 2023-09-03 (9th March): RecSys-DK meetup#2 at Wunderman, Glentevej 61, 2400 Copenhagen NV. [Register](https://docs.google.com/forms/d/e/1FAIpQLSfoqylUdYLHjmNz8KllQ_K_H0hU-pzdHYuUEDlogU8tdKu96A/viewform?usp=send_form)
 - June (TBA): Meetup event at RecSys Summer School (location unknown)
 - October (TBA): RecSys-DK (location unknown) follow-up on RecSys Conference
 
 # Previous events:
-- 2022-10-11: RecSys-DK at Ekstra Bladet
+- 2022-10-11 (10th of Nov): RecSys-DK meetup#1 at Ekstra Bladet, Rådhuspladsen, 37. 1785 København V.
 
 
 
