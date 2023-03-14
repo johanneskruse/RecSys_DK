@@ -1,6 +1,4 @@
 # Welcome to the RecSys Denmark page!
-Sign up for next event: 
-- [Register RecSys-DK meetup#2](https://docs.google.com/forms/d/e/1FAIpQLSfoqylUdYLHjmNz8KllQ_K_H0hU-pzdHYuUEDlogU8tdKu96A/viewform?usp=send_form)
 
 Sign up for [RecSysDK Newsletter](https://forms.gle/XyxM3jnUp1jcTpSL8) to stay updated on future events and industry news. 
 
